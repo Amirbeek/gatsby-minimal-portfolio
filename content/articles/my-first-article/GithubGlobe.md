@@ -43,11 +43,9 @@ directionalLight2.position.set(-parameters.lightPositionX, parameters.lightPosit
 const pointLight = new THREE.PointLight(0x8566cc, parameters.pointLightIntensity);
 pointLight.position.set(-400, 500, 200);
 ```
-![GitHub Globe Animation](../../../static/GitHubGlobe.gif)
+![GitHub Globe Animation](https://raw.githubusercontent.com/Amirbeek/my-gatsby-minimal-portfolio/main/static/GitHubGlobe.gif)
 
 ### Displaying my boarded flights from 2022-2023
 
 The source code is available on the [amirbeek/github-globe-visualization](https://github.com/Amirbeek/github-globe-visualization) repository. This visualization displays all my flights from 2022 to 2023 on a globe, using data retrieved from my Google Calendar. It looks cool, but there are still many aspects to refine. The project is deployed on Vercel and can be viewed here: [GitHub Flight Visualization](https://github-globe-visualization.vercel.app/).
-<video autoplay loop muted playsinline width="700">
-  <source src="../../images/globe.mp4" type="video/mp4">
-</video>
+

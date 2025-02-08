@@ -4,7 +4,7 @@
       "visible": true,
       "category": "🕹️ Work Faster, Smarter, Better\n",
       "title": "MiniDesk Google Extension",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
+      "description": "Get up and <span>running</span> within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
       "tags": ["Content Integration", "Ready-2-Deploy"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
