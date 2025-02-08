@@ -1,0 +1,13 @@
+{
+  "name": "Amirbek's Email Address",
+  "email": "amirbek.shomurodov01@gmail.com",
+  "description": "Get in touch for collaborations and opportunities.",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}

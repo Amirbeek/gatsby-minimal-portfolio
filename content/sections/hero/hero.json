@@ -1,0 +1,22 @@
+{
+  "intro": "Hey, I'm Amirbek.",
+  "heroPhoto": {
+    "src": "../../images/sticker.webp",
+    "alt": "Profile Sticker"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand"
+  },
+  "title": "I design, develop, and create.",
+  "subtitle": {
+    "prefix": "",
+    "highlight": "Building products people love.",
+    "suffix": ""
+  },
+  "description": "Crafting user-friendly experiences with precision and creativity.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github","Medium", "Mail"],
+    "showIcons": true
+  }
+}

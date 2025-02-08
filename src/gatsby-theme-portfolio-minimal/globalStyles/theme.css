@@ -1,0 +1,41 @@
+body[data-theme='lightTheme'] {
+    --primary-color: #000000;
+    --secondary-color: rgba(120, 70, 250, 0.25);
+    --tertiary-color: #f2f2f2;
+    --text-color: #000000;
+    --subtext-color: #555555;
+    --background-color: #ffffff;
+    --card-background-color: #ffffff;
+    --scroll-bar-color: rgba(0, 0, 0, 0.5);
+    --box-shadow-color: rgba(0, 0, 0, 0.16);
+    --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
+    --base-font: 'Roboto', Arial, sans-serif;
+    --code-block-bg: #f5f5f5; /* Lighter background for readability */
+    --code-block-var: #d400ff; /* More readable variable color */
+    --code-block-num: #e69f00;
+    --code-block-fun: #007acc;
+    --code-block-keyword: #ff4500;
+    --code-block-comment: #757575; /* Slightly lighter comment color */
+    --code-block-tkimp: #d35400;
+}
+
+body[data-theme='darkTheme'] {
+    --primary-color: #fafafa;
+    --secondary-color: #2a2926;
+    --tertiary-color: #252525;
+    --text-color: rgba(255, 255, 255, 0.87);
+    --subtext-color: #aaaaaa;
+    --background-color: #121212;
+    --card-background-color: #1c1c1c;
+    --scroll-bar-color: rgba(255, 255, 255, 0.5);
+    --box-shadow-color: rgba(0, 0, 0, 0.16);
+    --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
+    --base-font: 'Roboto', Arial, sans-serif;
+    --code-block-bg: #151f28;
+    --code-block-var: #ff39a7;
+    --code-block-num: #fed703;
+    --code-block-fun: #c653ff;
+    --code-block-keyword: #2bdcff;
+    --code-block-comment: #8292a2;
+    --code-block-tkimp: #fd971f;
+}
