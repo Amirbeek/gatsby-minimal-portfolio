@@ -43,7 +43,7 @@ directionalLight2.position.set(-parameters.lightPositionX, parameters.lightPosit
 const pointLight = new THREE.PointLight(0x8566cc, parameters.pointLightIntensity);
 pointLight.position.set(-400, 500, 200);
 ```
-![GitHub Globe Animation](https://raw.githubusercontent.com/Amirbeek/my-gatsby-minimal-portfolio/main/static/GitHubGlobe.gif)
+<img src="https://raw.githubusercontent.com/Amirbeek/my-gatsby-minimal-portfolio/main/static/GitHubGlobe.gif" alt="GitHub Globe Animation" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 
 ### Displaying my boarded flights from 2022-2023
 
