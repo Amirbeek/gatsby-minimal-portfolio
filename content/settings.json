@@ -17,8 +17,11 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "image": "../../content/images/logo/LogoW.png",
-      "imageDark": "../../images/logo/LogoW.png" },
+    "logo": {
+      "text": "Amirbeek",
+      "image": "/logo/LogoB.png",
+      "imageDark": "/logo/LogoW.png"
+    },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },

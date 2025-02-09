@@ -1,59 +1,73 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Web Development",
       "image": {
-        "src": "../../images/joystick.png",
-        "alt": ""
+        "src": "../../images/details/notebook.png",
+        "alt": "Web Development"
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "UI Design",
       "image": {
-        "src": "../../images/notebook.png",
-        "alt": ""
+        "src": "../../images/details/nail-polish.png",
+        "alt": "Web Development"
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "3D Graphics",
       "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
+        "src": "../../images/details/V.webp",
+        "alt": "3D Graphics & Visualization"
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Three.js & WebGL",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
+        "src": "../../images/details/mountain.png",
+        "alt": "Three.js & WebGL"
       }
     },
     {
-      "label": "Animations",
+      "label": "Data Visualization",
       "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
+        "src": "../../images/details/joystick.png",
+        "alt": "Data Visualization"
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Full-Stack Development",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
+        "src": "../../images/details/wrench.png",
+        "alt": "Full-Stack Development"
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "React & Gatsby",
       "image": {
         "src": "../../images/gatsby.png",
-        "alt": ""
+        "alt": "React & Gatsby"
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Java & Backend Systems",
       "image": {
-        "src": "../../images/high-voltage.png",
-        "alt": ""
+        "src": "../../images/details/java.png",
+        "alt": "Java & Backend Systems"
+      }
+    },
+    {
+      "label": "Node.js",
+      "image": {
+        "src": "../../images/details/node.webp",
+        "alt": "Node.js"
+      }
+    },
+    {
+      "label": "Express.js",
+      "image": {
+        "src": "../../images/details/ex.png",
+        "alt": "Express.js"
       }
     }
   ],
