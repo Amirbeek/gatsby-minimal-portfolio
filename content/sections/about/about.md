@@ -10,4 +10,4 @@ Using theme composition, you can easily customize the CSS theme to your own pref
 
 I am currently pursuing an Bachelor degree in Computer Science with a specialization in AI and Data Science at Brunel University London
 
-Photo by <a href="" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+follow more to know me on <a href="" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Amirbek Shomurodov</u></a> on Behance

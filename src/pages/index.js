@@ -15,12 +15,12 @@ export default function IndexPage() {
       <>
         <Seo title="Portfolio Minimal" />
         <Page useSplashScreenAnimation>
-          <HeroSection sectionId="hero" />
+            <HeroSection sectionId="hero" />
             <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Blog', 'Medium']} />
-          <AboutSection sectionId="about" heading="About Me" />
-          <InterestsSection sectionId="details" heading="Details" />
-          <ProjectsSection sectionId="projects" heading="Projects" />
-          <ContactSection sectionId="github" heading="Contact Me" />
+            <AboutSection sectionId="about" heading="About Me" />
+            <InterestsSection sectionId="details" heading="Details" />
+            <ProjectsSection sectionId="projects" heading="Projects" />
+            <ContactSection sectionId="github" heading="Contact Me" />
         </Page>
       </>
   );
