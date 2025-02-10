@@ -6,7 +6,7 @@
     "titleTemplate": "%s · Software Engineer",
     "description": "A personal portfolio showcasing my work as a Software Engineer and UI Designer. Featuring projects, blog posts, and insights into my experience with full-stack development, AI, and intuitive design.",
     "author": "Amirbek Shomurodov",
-    "avatar": "../content/images/favicon.png",
+    "avatar": "../content/images/logo/favicon.svg",
     "bio": "Software Engineer | Full-Stack Developer | UI Designer | Passionate about clean code, intuitive design, and scalable solutions.",
     "social": {
       "behance": "https://www.behance.net/amirbekshomuro",
@@ -19,8 +19,8 @@
   "siteConfiguration": {
     "logo": {
       "text": "Amirbeek",
-      "image": "/logo/LogoB.png",
-      "imageDark": "/logo/LogoW.png"
+      "image": "../content/images/logo/favicon-black.svg",
+      "imageDark": "../content/images/logo/favicon.svg"
     },
     "navigation": {
       "header": [
