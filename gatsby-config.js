@@ -19,7 +19,7 @@ module.exports = {
           usePathPrefixForArticles: false,
         },
         googleAnalytics: {
-            trackingId: "UA-XXXXXX-X",
+            trackingId: "G-4YZM8DLBK1",
             anonymize: true,
             environments: [ "development"]
         }

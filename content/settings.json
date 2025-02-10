@@ -4,7 +4,7 @@
     "siteUrl": "https://www.amirbekshomurodov.me/",
     "title": " Hi, I'm Amirbek Shomurodov",
     "titleTemplate": "%s · Software Engineer",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "description": "A personal portfolio showcasing my work as a Software Engineer and UI Designer. Featuring projects, blog posts, and insights into my experience with full-stack development, AI, and intuitive design.",
     "author": "Amirbek Shomurodov",
     "avatar": "../content/images/favicon.png",
     "bio": "Software Engineer | Full-Stack Developer | UI Designer | Passionate about clean code, intuitive design, and scalable solutions.",

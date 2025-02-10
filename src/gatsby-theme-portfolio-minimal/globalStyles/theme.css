@@ -3,7 +3,7 @@ body[data-theme='lightTheme'] {
     --secondary-color: rgba(120, 70, 250, 0.25);
     --tertiary-color: #f2f2f2;
     --text-color: #000000;
-    --subtext-color: #5a2de4;
+    --subtext-color: #5a2de4!important;
     --background-color: #ffffff;
     --card-background-color: #ffffff;
     --scroll-bar-color: rgba(0, 0, 0, 0.5);
@@ -24,7 +24,7 @@ body[data-theme='darkTheme'] {
     --secondary-color: #2a2926;
     --tertiary-color: #252525;
     --text-color: rgba(255, 255, 255, 0.87);
-    --subtext-color: #5a2de4;
+    --subtext-color: #5a2de4!important;
     --background-color: #121212;
     --card-background-color: #1c1c1c;
     --scroll-bar-color: rgba(255, 255, 255, 0.5);

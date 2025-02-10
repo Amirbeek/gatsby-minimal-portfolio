@@ -16,7 +16,25 @@
         { "type": "behance", "url": "https://www.behance.net/gallery/216938563/Minidesk-Project-Overview" },
         { "type": "external", "url": "https://minidesk.me/" }
       ]
+    },{
+      "visible": true,
+      "category": "🦠 AI-Powered Medical Tool",
+      "title": "COVID-19 Detector",
+      "description": "A deep learning-powered web application that detects COVID-19 from X-ray images using a Convolutional Neural Network (CNN). Built with Flask, styled with Tailwind CSS, and deployed on Heroku, it ensures accessibility and high performance with Amazon S3 for model management.",
+      "tags": ["AI & Healthcare", "Deep Learning", "Flask", "Tailwind CSS", "Heroku", "Amazon S3"],
+      "image": {
+        "src": "../../images/covid-detector.png",
+        "alt": "COVID-19 Detector",
+        "linkTo": "https://github.com/Amirbeek/COVID-19-Detector-Web-Application"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Amirbeek/COVID-19-Detector-Web-Application"
+        }
+      ]
     },
+
     {
       "visible": true,
       "category": "🌍 Data Visualization",
@@ -25,7 +43,8 @@
       "tags": ["3D Visualization", "Three.js", "Data Globe", "Open Source"],
       "image": {
         "src": "../../images/globe/GitHub_Globe1.png",
-        "alt": "GitHub Globe"
+        "alt": "GitHub Globe",
+        "linkTo": "https://github-globe-visualization.vercel.app/"
       },
       "links": [
         { "type": "github", "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme" },
