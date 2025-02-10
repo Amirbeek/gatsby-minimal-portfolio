@@ -19,8 +19,8 @@
   "siteConfiguration": {
     "logo": {
       "text": "Amirbeek",
-      "image": "../content/images/logo/favicon-black.svg",
-      "imageDark": "../content/images/logo/favicon.svg"
+      "image": "../content/images/logo/favicon.svg",
+      "imageDark": "../content/images/logo/favicon-black.svg"
     },
     "navigation": {
       "header": [
