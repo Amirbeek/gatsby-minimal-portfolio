@@ -3,7 +3,7 @@ sectionId: privacy
 ---
 
 Privacy Policy
-Your privacy is important to me. I, Amirbek Shomurodov, am committed to respecting your privacy regarding any information collected through my website, [Your Domain URL].
+Your privacy is important to me. I, Amirbek Shomurodov, am committed to respecting your privacy regarding any information collected through my website, amirbekshomurodov.me.
 
 I only collect personal information when it is necessary to provide you with a service. Any data collected is obtained lawfully, with your knowledge and consent, and I will always inform you of the purpose and usage.
 
