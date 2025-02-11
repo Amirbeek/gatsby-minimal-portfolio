@@ -2,18 +2,19 @@
 sectionId: privacy
 ---
 
-Your privacy is important to me. It is my, Amirbek, policy to respect your privacy regarding any information I may collect from you across my website, amirbekshomurodov.me .
+Privacy Policy
+Your privacy is important to me. I, Amirbek Shomurodov, am committed to respecting your privacy regarding any information collected through my website, [Your Domain URL].
 
-I only ask for personal information when I truly need it to provide a service to you. I collect it by fair and lawful means, with your knowledge and consent. I also let you know why I am collecting it and how it will be used.
+I only collect personal information when it is necessary to provide you with a service. Any data collected is obtained lawfully, with your knowledge and consent, and I will always inform you of the purpose and usage.
 
-I only retain collected information for as long as necessary to provide you with your requested service. What data I store, I'll protect within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification.
+I retain collected data only for as long as necessary to fulfill your request. Any stored information is protected through industry-standard security measures to prevent unauthorized access, loss, or misuse.
 
-I don’t share any personally identifying information publicly or with third-parties, except when required to by law.
+I do not share personally identifiable information publicly or with third parties unless required by law.
 
-My website may link to external sites that are not operated by me. Please be aware that I have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
+My website may contain links to external sites not operated by me. Please note that I have no control over their content or privacy policies and cannot assume responsibility for their practices.
 
-You are free to refuse my request for your personal information, with the understanding that I may be unable to provide you with some of your desired services.
+You have the right to refuse any request for personal information, though this may limit access to certain services.
 
-Your continued use of my website will be regarded as acceptance of my practices around privacy and personal information. If you have any questions about how I handle user data and personal information, feel free to contact me.
+By continuing to use my website, you acknowledge and agree to this privacy policy. If you have any questions about how I handle user data, feel free to contact me.
 
-This policy is effective as of 22 September 2019. It has been generated with the help of GetTerms.io.
+This policy is effective as of 22 September 2024.
