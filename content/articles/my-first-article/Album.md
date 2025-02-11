@@ -1,7 +1,7 @@
 ---
 title: "My favorite Photo albums that I discovered in 2023"
 description: "This description will be used for the article listing and search results on Google."
-date: "2021-05-28"
+date: "2023-08-02"
 banner:
   src: "../../images/album.png"
   alt: "First Markdown Post"

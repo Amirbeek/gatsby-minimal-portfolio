@@ -1,7 +1,7 @@
 ---
 title: "Data visualization on a globe, inspired by Github's homepage"
 description: "This description will be used for the article listing and search results on Google."
-date: "2023-08-28"
+date: "2024-11-21"
 banner:
   src: "../../images/globe/GitHub_Globe1.png"
   alt: "First Markdown Post"

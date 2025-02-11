@@ -1,7 +1,7 @@
 ---
 title: "Image Color Classifier  Inspired by Figma’s Image Color Picker"
 description: "This description will be used for the article listing and search results on Google."
-date: "2021-05-28"
+date: "2024-10-15"
 banner:
   src: "../../images/tintrove/Tint.png"
   alt: "First Markdown Post"
