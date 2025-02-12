@@ -1,7 +1,7 @@
 {
   "name": "my-gatsby-portfolio",
   "version": "1.0.0",
-  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
+  "description": "A minimal yet powerful Gatsby-based portfolio showcasing projects in AI, machine learning, and software development. Designed with performance, dark mode, and animations in mind, it serves as a professional hub for innovation and technical expertise.",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
@@ -20,17 +20,9 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "author": "Konstantin Münster <mail@konstantin.digital>",
+  "author": "Amirbek Shomurodov",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
-  },
+  "starter-name": "Amirbek's portfolio website",
   "keywords": [
     "react",
     "gatsby",
