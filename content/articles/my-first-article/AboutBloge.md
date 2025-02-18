@@ -1,6 +1,6 @@
 ---
-title: "This is an exemplary article for the blog."
-description: "This description will be used for the article listing and search results on Google."
+title: "Discovering Gatsby.js. How and why this blog was built."
+description: "Discover how and why I built my blog using Gatsby.js. Learn about my journey in web development, the advantages of Gatsby over traditional React apps, and the design improvements I made for better performance and user experience."
 date: "2024-05-28"
 banner:
   src: "../../images/aboutbloge/gatsby.jpg"
@@ -9,7 +9,6 @@ banner:
 categories:
   - "Development"
 keywords:
-  - "Example"
   - "Gatsby"
   - "Markdown"
   - "Blog"

@@ -1,6 +1,6 @@
 ---
 title: "Data visualization on a globe, inspired by Github's homepage"
-description: "This description will be used for the article listing and search results on Google."
+description: "Discover how I built a 3D data visualization globe inspired by GitHub's homepage. Learn how I used Three.js, Three-Globe, and custom lighting setups to create an immersive web experience."
 date: "2024-11-21"
 banner:
   src: "../../images/globe/GitHub_Globe1.png"

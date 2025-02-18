@@ -1,6 +1,6 @@
 ---
 title: "Image Color Classifier  Inspired by Figma’s Image Color Picker"
-description: "This description will be used for the article listing and search results on Google."
+description: "Explore how I built an image color classifier inspired by Figma’s color picker. Learn about the design approach, K-Means clustering for color extraction, and deployment challenges on Heroku."
 date: "2024-10-15"
 banner:
   src: "../../images/tintrove/Tint.png"

@@ -1,6 +1,6 @@
 ---
 title: "My favorite Photo albums that I discovered in 2023"
-description: "This description will be used for the article listing and search results on Google."
+description: "Explore my favorite photo albums discovered in 2023. From breathtaking landscapes to emotionally rich visuals, these collections offer inspiration and a deeper connection to the art of photography."
 date: "2023-08-02"
 banner:
   src: "../../images/album.png"
