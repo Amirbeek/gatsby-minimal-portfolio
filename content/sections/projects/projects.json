@@ -4,8 +4,8 @@
       "visible": true,
       "category": "🧰 Productivity & Efficiency",
       "title": "MiniDesk – Smart Bookmark Manager",
-      "description": "MiniDesk is a Chrome extension for managing bookmarks and boosting productivity with handy widgets. Built with Express.js & React.js (Material UI) and deployed on Heroku. I contributed as a Full Stack Developer under Alex Kuhn (ex-Apple Engineer) and presented it at Brunel University to 100+ people.",
-      "tags": ["Bookmark Manager", "Browser Extension", "Productivity", "React & Express", "Material UI"],
+      "description": "MiniDesk is a Chrome extension for managing bookmarks and boosting productivity with handy widgets. Built with Deno & React.js (Material UI) and deployed on Heroku. I contributed as a Full Stack Developer under Alex Kuhn (ex-Apple Engineer) and presented it at Brunel University to 100+ people.",
+      "tags": ["Bookmark Manager", "Browser Extension", "Productivity", "React & Deno", "Material UI"],
       "image": {
         "src": "../../images/img.png",
         "alt": "MiniDesk – Smart Bookmark & Productivity Tool",
