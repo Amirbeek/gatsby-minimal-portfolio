@@ -18,6 +18,10 @@ The website is hosted and can be accessed at [amirbekshomurodov.me](http://amirb
 - **JavaScript:** The primary programming language used.
 - **CSS:** For styling the website.
 
+## License
+This project is licensed under the 0BSD license.
+
+
 ## Installation
 
 To run this project locally, follow these steps:
@@ -39,8 +43,5 @@ To run this project locally, follow these steps:
    npm start
     ```
 
-Open your browser and go to http://localhost:8000
 
-## License
-This project is licensed under the 0BSD license.
 
