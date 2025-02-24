@@ -29,15 +29,15 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
    ```bash
    cd my-gatsby-minimal-portfolio
-    ```
+   ```
 3. Install the dependencies:
 ```bash
    npm install
-    ```
+   ```
 4. Start the development server:
 ```bash
    npm  start
- ```
+    ```
 Open your browser and go to http://localhost:8000
 
 ## License
