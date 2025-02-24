@@ -36,10 +36,11 @@ To run this project locally, follow these steps:
    ```
 4. Start the development server:
 ```bash
-   npm  start
+   npm start
     ```
+
 Open your browser and go to http://localhost:8000
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the 0BSD license.
 
