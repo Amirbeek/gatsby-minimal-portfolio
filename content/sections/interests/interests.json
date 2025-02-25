@@ -64,10 +64,10 @@
       }
     },
     {
-      "label": "Express.js",
+      "label": "Deno",
       "image": {
-        "src": "../../images/details/ex.png",
-        "alt": "Express.js"
+        "src": "../../images/details/deno.png",
+        "alt": "deno.js"
       }
     }
   ],
