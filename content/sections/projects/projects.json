@@ -66,6 +66,21 @@
         { "type": "behance", "url": "https://www.behance.net/gallery/216384021/Flight-Booking-System" },
         { "type": "youtube", "url": "https://youtu.be/UzrsrJYfmdY" }
       ]
+    },
+    {
+      "visible": true,
+      "category": "🍽️ Recipe Sharing",
+      "title": "Nutri-Book – Discover & Share Recipes",
+      "description": "Nutri-Book is an interactive recipe-sharing platform that brings food lovers together. Explore thousands of delicious recipes, create your own, and customize your experience with allergy-friendly options. Whether you're a home cook or a professional chef, Nutri-Book makes cooking fun, easy, and social!",
+      "tags": ["Spring Boot", "Java", "React.js", "Bootstrap", "PostgreSQL"],
+      "image": {
+        "src": "../../images/nutribook.png",
+        "alt": "Nutri-Book",
+        "linkTo": "https://github.com/Amirbeek/Nutri-Book"
+      },
+      "links": [
+        { "type": "github", "url": "https://github.com/Amirbeek/Nutri-Book" }
+      ]
     }
   ],
   "button": {
