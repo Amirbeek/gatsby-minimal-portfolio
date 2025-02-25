@@ -9,10 +9,13 @@ banner:
 categories:
   - "Development"
 keywords:
-  - "Example"
-  - "Gatsby"
-  - "Markdown"
-  - "Blog"
+    - "K-Means Clustering"
+    - "Machine Learning"
+    - "Image Processing"
+    - "Color Classifier"
+    - "Figma"
+    - "Flask"
+    - "Tailwind CSS"
 ---
 
 ### Inspiration

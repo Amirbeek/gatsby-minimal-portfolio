@@ -9,10 +9,13 @@ banner:
 categories:
   - "Personal"
 keywords:
-  - "Example"
-  - "Gatsby"
-  - "Markdown"
-  - "Blog"
+    - "Photo Albums"
+    - "Visual Storytelling"
+    - "Landscape Photography"
+    - "Creative Inspiration"
+    - "Photography Blog"
+    - "Travel Photography"
+    - "Artistic Expression"
 ---
 ### Inspiration
 

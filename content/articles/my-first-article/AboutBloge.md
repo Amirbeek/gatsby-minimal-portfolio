@@ -9,9 +9,11 @@ banner:
 categories:
   - "Development"
 keywords:
-  - "Gatsby"
-  - "Markdown"
-  - "Blog"
+  - "Gatsby.js"
+  - "Static Site Generation"
+  - "Web Performance"
+  - "React"
+  - "Blog Development"
 ---
 
 ## Why would I need a blog?
