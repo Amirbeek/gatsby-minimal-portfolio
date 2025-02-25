@@ -39,7 +39,7 @@ def get_colors(image, number_of_colors):
 
 ### Deployment and Challenges
 After rigorous testing and further refining the design, I deployed my application on Heroku using GitHub. This setup enables continuous integration, meaning [Heroku](https://heroku.com/) automatically fetches and deploys new builds upon code changes. Initially, I attempted to deploy on Vercel; however, Vercel's 250 MB limit proved restrictive, leading to an unsuccessful first attempt. Consequently, I decided to switch to Heroku, leveraging the benefits offered through the GitHub Student Pack, which provides additional resources for deployment.
-![tint.gif](/tintrove/tint.gif)
+![tint.gif](../../images/tintrove/tint.gif)
 
 You can view the source code here: [Source Code](https://github.com/Amirbeek/TintTrove), and a live demo is available here: [Live Demo](https://tinttrove-66532836a19d.herokuapp.com/).
 
