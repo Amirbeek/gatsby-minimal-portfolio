@@ -19,7 +19,7 @@ export default function IndexPage() {
             lang="en"
             image="/favicon.png"
         />
-        <Page useSplashScreenAnimation>
+        <Page useSplashScreenAnimation={true}>
             <HeroSection sectionId="hero" />
             <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Blog', 'Medium']} />
             <AboutSection sectionId="about" heading="About Me" />
