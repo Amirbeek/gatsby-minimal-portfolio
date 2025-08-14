@@ -1,0 +1,48 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://www.amirbekshomurodov.me/",
+    "title": " Hi, I'm Amir Shomurodov",
+    "titleTemplate": "%s · Software Engineer",
+    "description": "A personal portfolio showcasing my work as a Software Engineer and UI Designer. Featuring projects, blog posts, and insights into my experience with full-stack development, AI, and intuitive design.",
+    "author": "Amir S",
+    "avatar": "../content/images/logo/favicon.svg",
+    "bio": "Software Engineer | Full-Stack Developer | UI Designer | Passionate about clean code, intuitive design, and scalable solutions.",
+    "social": {
+      "behance": "https://www.behance.net/amirbekshomuro",
+      "github": "https://github.com/amirbeek",
+      "medium": "https://medium.com/@amirbek.shomurodov01",
+      "linkedin": "https://www.linkedin.com/in/amirbekshomurodovakmal/",
+      "mail": "amirbek.shomurodov01@gmail.com"
+    }
+  },
+  "siteConfiguration": {
+    "logo": {
+      "text": "Amirbeek",
+      "image": "../content/images/logo/favicon.svg",
+      "imageDark": "../content/images/logo/favicon-black.svg"
+    },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "/blog" },
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Github", "url": "/#github" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

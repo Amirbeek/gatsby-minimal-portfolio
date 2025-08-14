@@ -1,0 +1,13 @@
+{
+  "name": "Amir's Email Address",
+  "email": "amirbek.shomurodov01@gmail.com",
+  "description": "Get in touch for collaborations and opportunities.",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "Amir Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium","Behance", "Github", "Mail"],
+    "showIcons": true
+  }
+}
